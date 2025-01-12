@@ -16,7 +16,11 @@ A professional YouTube-like application built with React and powered by the YouT
 - **State Management:** (e.g., React Context, Redux, or others if used)
 
 ## Screenshots
-(Add screenshots of your app here for better visibility)
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-4.png)
+![alt text](image-3.png)
 
 ## Installation
 Follow these steps to run the project locally:
