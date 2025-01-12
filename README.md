@@ -116,7 +116,6 @@ To deploy the project, use one of the following platforms:
 
 ## API Usage
 - **YouTube Data API v3:**
-  - Fetch videos, channels, and search results.
   - Refer to the official [API Documentation](https://developers.google.com/youtube/v3/docs).
 
 ## Contributing
@@ -142,7 +141,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 ## Acknowledgements
 - [YouTube Data API](https://developers.google.com/youtube/v3)
 - [React Documentation](https://reactjs.org/docs/getting-started.html)
-- Any other resources or libraries you used
+
 
 ---
 
