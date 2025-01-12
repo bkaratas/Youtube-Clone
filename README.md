@@ -145,5 +145,5 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 ---
 
-**Made with ❤️ by [Berat Kartaş](https://github.com/bkaratas)**
+**Made with ❤️ by [Berat Karataş](https://github.com/bkaratas)**
 
