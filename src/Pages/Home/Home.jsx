@@ -1,7 +1,7 @@
 import React, { useState } from "react";
-import SideBar from "../../Components/SideBar/SideBar";
-import Feed from "../../Components/Feed/Feed";
-import BottomNavbar from "../../Components/BottomNavbar/BottomNavbar";
+import SideBar from "../../Components/SideBar/SideBar.jsx";
+import Feed from "../../Components/Feed/Feed.jsx";
+import BottomNavbar from "../../Components/BottomNavbar/BottomNavbar.jsx";
 
 const Home = ({ sidebar }) => {
   const [category, setCategory] = useState(0);
