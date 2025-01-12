@@ -26,7 +26,7 @@ A professional YouTube-like application built with React and powered by the YouT
 Follow these steps to run the project locally:
 
 ### Prerequisites
-- Node.js (version X.X.X or later)
+- Node.js (version 20.11.1 or later)
 - npm or yarn installed
 
 ### Steps
